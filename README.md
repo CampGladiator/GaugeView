@@ -13,8 +13,8 @@ GaugeView is a small library to create and display Gauge graphs. It is fully cus
 ![Alt text](http://s30.postimg.org/mdxhaa6ch/i_Phone6.jpg)
 
 ## Requirements
-* iOS 8+
-* Xcode 7.0+
+* iOS 10.3+
+* Xcode 10.1+
 
 ## Installation 
 ### CocoaPods

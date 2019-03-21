@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 s.name             = "GaugeView"
-s.version          = "0.1.4"
+s.version          = "1.0.0"
 s.summary          = "Simple GaugeView in Swift"
 
 # This description is used to generate tags and improve search results.
@@ -23,10 +23,9 @@ DESC
 s.homepage         = "https://github.com/BelkaLab/GaugeView"
 s.license          = 'MIT'
 s.author           = { "Belka" => "luca@b3lab.it" }
-s.source           = { :git => "https://github.com/BelkaLab/GaugeView.git", :tag => s.version.to_s }
-# s.social_media_url = 'https://twitter.com/BelkaDigitalLab'
+s.source           = { :git => "https://github.com/CampGladiator/GaugeView.git", :tag => s.version.to_s }
 
-s.platform     = :ios, '8.0'
+s.platform     = :ios, '10.3'
 s.requires_arc = true
 
 s.source_files = 'Pod/Classes/**/*'
